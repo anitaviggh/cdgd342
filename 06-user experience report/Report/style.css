@@ -57,6 +57,11 @@ a:hover {
     opacity:0.4;
 }
 
+ul {
+    margin-left:2em;
+    list-style-type:square;
+}
+
 li {
     margin-bottom:0.25em
 }
@@ -123,4 +128,8 @@ a figure figcaption {
     font-size:0.8em;
     color:#555;
     font-weight:Normal;
+}
+
+figure iframe {
+    width:100%;
 }
